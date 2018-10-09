@@ -1,0 +1,21 @@
+//
+//  KKPrefixHeader.pch
+//  iOS
+//
+//  Created by 郑业强 on 2018/4/3.
+//  Copyright © 2018年 郑业强. All rights reserved.
+//
+
+#ifndef KKPrefixHeader_pch
+#define KKPrefixHeader_pch
+
+#import "ThirdMarcros.h"
+#import "ScreenMarcros.h"
+#import "FontAndColorMarcros.h"
+#import "UtilsMacros.h"
+#import "CategoryMacros.h"
+#import "ModulesMacros.h"
+
+#import "Common.h"
+
+#endif

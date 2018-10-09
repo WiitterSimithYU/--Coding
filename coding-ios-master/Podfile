@@ -1,0 +1,16 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'coding-ios-master' do
+  pod 'AFNetworking', '~>3.1.0'
+  pod 'MJExtension', '~>3.0.0'
+  pod 'pop', '~>1.0.10'
+  pod 'Masonry', '~>1.0.2'
+  pod 'MJRefresh', '~>3.1.0'
+  pod 'JZNavigationExtension', '~>1.5.0'
+  pod 'SDWebImage', '~>4.0.0'
+  pod 'SDCycleScrollView', '~>1.75'
+  pod 'TTTAttributedLabel', '~>2.0.0'
+  pod 'SDCycleScrollView', '~>1.75'
+  pod 'Realm', '~> 3.5.0'
+end

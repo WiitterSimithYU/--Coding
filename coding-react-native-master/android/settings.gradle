@@ -1,0 +1,3 @@
+rootProject.name = 'coding_react_native_master'
+
+include ':app'
